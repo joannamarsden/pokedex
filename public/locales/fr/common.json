@@ -1,0 +1,20 @@
+{
+  "language_switcher": {
+    "en": "Anglais",
+    "fr": "Français"
+  },
+  "pokedex": {
+    "heading": "Pokédex",
+    "tag_line": "Attrapez-les-tous!"
+  },
+  "previous": "Précédent",
+  "next": "Suivant",
+  "species": "Espèces",
+  "evolution": "Évolution",
+  "type_one": "Type : ",
+  "type_other": "Types : ",
+  "height": "Taille : ",
+  "weight": "Poids : ",
+  "evolves_to": "Évolue vers : ",
+  "evolves_from": "Évolue de : "
+}

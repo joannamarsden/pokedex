@@ -1,0 +1,20 @@
+{
+  "language_switcher": {
+    "en": "English",
+    "fr": "French"
+  },
+  "pokedex": {
+    "heading": "Pokédex",
+    "tag_line": "Gotta catch 'em all!"
+  },
+  "previous": "Previous",
+  "next": "Next",
+  "species": "Species",
+  "evolution": "Evolution",
+  "type_one": "Type: ",
+  "type_other": "Types: ",
+  "height": "Height: ",
+  "weight": "Weight: ",
+  "evolves_to": "Evolves to: ",
+  "evolves_from": "Evolves from: "
+}
